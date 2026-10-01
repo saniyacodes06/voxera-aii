@@ -24,8 +24,7 @@ You can provide a public YouTube video or upload a video/audio recording and let
 
 ### 🏠 Voxera AI Dashboard
 
-![Voxera AI Dashboard](<img width="1470" height="956" alt="dashboard" src="https://github.com/user-attachments/assets/b0362ab7-d1a8-4b82-9d73-921da82c46db" />
-
+![Voxera AI Dashboard](<img width="1470" height="956" alt="Screenshot 2026-10-02 at 02 26 12" src="https://github.com/user-attachments/assets/4e338c4d-fb8d-488e-956b-31976febc1ea" />
 )
 
 ### 🧠 AI-Generated Insights
