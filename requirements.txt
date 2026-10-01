@@ -1,0 +1,14 @@
+streamlit
+yt-dlp
+openai-whisper
+pydub
+python-dotenv
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-mistralai
+langchain-chroma
+chromadb
+sentence-transformers
+torch
