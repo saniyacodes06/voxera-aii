@@ -14,7 +14,7 @@ It uses **Whisper for transcription, Mistral AI for intelligent analysis, LangCh
 
 ## 🚀 Live Demo
 
-👉 **[Try Voxera AI Live](https://voxera-aii-ndfkvbpe5dxjqivmrexcscs.streamlit.app/)**
+👉 **[Try Voxera AI Live](https://voxera-aii-ndfkvbpe5dxjqivmrexscs.streamlit.app/)**
 
 You can provide a public YouTube video or upload a video/audio recording and let Voxera analyze it.
 
