@@ -12,3 +12,5 @@ langchain-chroma
 chromadb
 sentence-transformers
 torch
+audioop-lts; python_version >= '3.13'
+audioop-lts; python_version >= '3.13'
