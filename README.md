@@ -1,3 +1,4 @@
+<img width="1465" height="885" alt="ask" src="https://github.com/user-attachments/assets/d9368aab-ff7a-4c21-bc5c-5258d93d8f19" />
 # 🎙️ Voxera AI
 
 ### AI-Powered Video & Meeting Intelligence Assistant
