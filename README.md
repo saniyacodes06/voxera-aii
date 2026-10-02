@@ -1,4 +1,4 @@
-<img width="1465" height="885" alt="ask" src="https://github.com/user-attachments/assets/d9368aab-ff7a-4c21-bc5c-5258d93d8f19" />
+
 # 🎙️ Voxera AI
 
 ### AI-Powered Video & Meeting Intelligence Assistant
@@ -34,7 +34,7 @@ You can provide a public YouTube video or upload a video/audio recording and let
 
 ### 💬 Ask Voxera — RAG Assistant
 
-<img width="..." alt="ask" src="https://github.com/user-attachments/assets/..." />
+<img width="1465" height="885" alt="ask" src="https://github.com/user-attachments/assets/d9368aab-ff7a-4c21-bc5c-5258d93d8f19" />
 
 > Screenshots show the live Voxera AI interface, AI-generated insights, and transcript-based question answering.
 
