@@ -24,16 +24,16 @@ You can provide a public YouTube video or upload a video/audio recording and let
 
 ### 🏠 Voxera AI Dashboard
 
-![Voxera AI Dashboard](![Uploading dashbaord.png…]()
+![Voxera AI Dashboard](![]()
 )
 
 ### 🧠 AI-Generated Insights
 
-![Voxera AI Insights](assets/voxera-insights.png)
+![Voxera AI Insights]()
 
 ### 💬 Ask Voxera — RAG Assistant
 
-![Ask Voxera](assets/ask-voxera.png)
+![Ask Voxera](desktop/ask.png)
 
 > Screenshots show the live Voxera AI interface, AI-generated insights, and transcript-based question answering.
 
