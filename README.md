@@ -33,7 +33,7 @@ You can provide a public YouTube video or upload a video/audio recording and let
 
 ### 💬 Ask Voxera — RAG Assistant
 
-<img width="900" alt="Ask Voxera" src="https://github.com/user-attachments/assets/595b6314-aaf2-495d-bcc0-fad3ade5cedc" />
+<img width="..." alt="ask" src="https://github.com/user-attachments/assets/..." />
 
 > Screenshots show the live Voxera AI interface, AI-generated insights, and transcript-based question answering.
 
