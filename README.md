@@ -24,7 +24,6 @@ You can provide a public YouTube video or upload a video/audio recording and let
 ## 📸 Screenshots
 
 ### 🏠 Voxera AI Dashboard
-<img width="1470" height="956" alt="Screenshot 2026-10-02 at 11 05 44" src="https://github.com/user-attachments/assets/84d17aac-0f3f-4583-88fb-4e9e6c62f528" />
 <img width="1470" height="956" alt="Screenshot 2026-10-02 at 11 31 37" src="https://github.com/user-attachments/assets/94e69a90-818e-4073-812d-2d9d024b8041" />
 
 ![Voxera AI Dashboard](![]()
